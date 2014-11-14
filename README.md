@@ -1,11 +1,11 @@
 此為練習DesignPattern的Project
 ===
 
-Use Language : Java
-Use Test Tool: JUnit
-Use IDE : Eclipse
+- Use Language : __Java 7__
+- Use Test Tool: __JUnit 4__
+- Use IDE : __Eclipse Luna__
 
 Pattern List:
 ---
 
-- Singleton Pattern
+1. Singleton Pattern

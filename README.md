@@ -9,3 +9,4 @@ Pattern List:
 ---
 
 1. Singleton Pattern
+2. Simple Factory

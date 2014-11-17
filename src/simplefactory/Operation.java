@@ -1,5 +1,9 @@
 package simplefactory;
-
+/**
+ * 大話設計模式 Chapter1 簡單工廠模式 練習
+ * @author shuwei
+ *
+ */
 public class Operation {
 	
 	private double _numberA = 0;

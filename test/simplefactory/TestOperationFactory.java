@@ -45,7 +45,7 @@ public class TestOperationFactory {
 			
 		}
 		
-
+		//Test Operation Multiple
 		oper = OperationFactory.createOperation("*");
 		org.junit.Assert.assertEquals("failure -- Not OperationMul Class!", OperationMul.class, oper.getClass());
 		oper.set_numberA(3.2d);
@@ -56,6 +56,7 @@ public class TestOperationFactory {
 			
 		}		
 		
+		//Test Operation Div
 		oper = OperationFactory.createOperation("/");
 		org.junit.Assert.assertEquals("failure -- Not OperationDiv Class!", OperationDiv.class, oper.getClass());
 		

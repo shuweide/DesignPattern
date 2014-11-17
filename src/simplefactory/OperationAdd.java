@@ -1,5 +1,9 @@
 package simplefactory;
-
+/**
+ * 大話設計模式 Chapter1 簡單工廠模式 練習
+ * @author shuwei
+ *
+ */
 class OperationAdd extends Operation {
 	
 	@Override

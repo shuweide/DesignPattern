@@ -11,3 +11,4 @@ Pattern List:
 1. Singleton Pattern
 2. Simple Factory Pattern
 3. Strategy Pattern
+4. Decorator Pattern

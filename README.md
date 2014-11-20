@@ -12,3 +12,4 @@ Pattern List:
 2. Simple Factory Pattern
 3. Strategy Pattern
 4. Decorator Pattern
+5. Proxy Pattern
